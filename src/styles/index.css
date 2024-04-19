@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+img{
+    width: 18rem;
+    height:18rem;
+}
+
+.card-img-top{
+    object-fit: cover;
+}
